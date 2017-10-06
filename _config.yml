@@ -12,7 +12,6 @@ facebook_username:
 email_username:  geek1706@gmail.com
 
 # Google Analytics
-# To enable google analytics, uncomment below line with a valid Google Tracking ID
 google_tracking_id: UA-51159336-3
 
 # Build settings

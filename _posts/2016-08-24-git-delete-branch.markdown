@@ -3,6 +3,7 @@ layout: post
 title:  "Git delete branch"
 date:   2016-08-24 16:19:26 +0700
 categories: posts
+comments: true
 ---
 To delete a local branch
 
